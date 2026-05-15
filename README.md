@@ -58,9 +58,9 @@ Allows authorities to monitor and resolve complaints.
 
 ## Team
 
-- Member 1
-- Member 2
-- Member 3
+- ANITHA R
+- PRIYADHARSHINI K
+- KARTHIKA VARSHINI P
 
 ---
 
